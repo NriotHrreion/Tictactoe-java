@@ -1,5 +1,7 @@
 # Tictactoe-java
 
+## `This Repo Has Been Archived`
+
 By NriotHrreion
 
 ## 简介
